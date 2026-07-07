@@ -147,8 +147,4 @@ To flag a cell:
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourusername
+**Harshil Shah**
